@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Initiative Helper Tool</string>
+    <string name="add_char">ADD</string>
+    <string name="roll_initiative">R</string>
+    <string name="input_new_char_name">Name</string>
+    <string name="input_char_init_mod">Initiative</string>
+    <string name="roll">Roll</string>
+    <string name="name">Name</string>
+    <string name="roll_mod">roll mod</string>
+    <string name="character">character</string>
+    <string name="inr_56990">roll_score</string>
+    <string name="textview">roll_view</string>
+    <string name="characterInfo">char name and info</string>
+    <string name="rolledCombatTextView">TextView</string>
+    <string name="rolledCombatListText">DESU</string>
+    <string name="clearButton">C</string>
+    <string name="initiative_advantage">initiative advantage?</string>
+    <string name="cancelFromList">X</string>
+    <string name="addOneCharacter">+</string>
+    <string name="roll_data">roll data</string>
+    <string name="submit">Add</string>
+    <string name="input_initiative_mod">input initiative mod</string>
+    <string name="save">S</string>
+    <string name="instant_roll">Roll Now</string>
+    <string name="back">Back</string>
+    <string name="load">L</string>
+    <string name="party_name">Party name</string>
+    <string name="confirm">Confirm</string>
+    <string name="party_name_load">party name</string>
+    <string name="input_new_name">edit name</string>
+    <string name="edit_initiative">edit initiative</string>
+    <string name="image">image</string>
+    <string name="save_party">Save Party</string>
+    <string name="party_lists">Party Lists</string>
+</resources>
